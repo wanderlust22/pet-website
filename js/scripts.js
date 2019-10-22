@@ -15,4 +15,9 @@ $(document).ready(function(){
     $("body").removeClass();
     $("body").addClass("light1");
   });
+
+  $("div.toHighlight").click(function(){
+    $("div.toHighlight").addClass("highlight");
   });
+
+});

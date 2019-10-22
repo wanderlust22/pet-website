@@ -7,3 +7,12 @@
   color: black;
   background-color: white;
 }
+
+.highlight {
+  background-color: yellow;
+  border-style: groove;
+}
+
+div.toHighlight{
+  cursor: pointer;
+}
